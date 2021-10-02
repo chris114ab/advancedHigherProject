@@ -5,5 +5,6 @@ The various stages of the project are seperated into the folders:
   2) Planning
   3) Implementation
   4) Testing
+ 
 The full project is narrated and described in more detail in "Full Project.docx"
 
