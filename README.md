@@ -7,4 +7,6 @@ The various stages of the project are seperated into the folders:
   4) Testing
  
 The full project is narrated and described in more detail in "Full Project.docx"
+This was done in my 6th year of high school (2019)
+
 
