@@ -1,0 +1,174 @@
+@font-face{
+	font-family:supreme;
+	src: url(resources/supremeFont.ttf);
+}
+
+@font-face{
+	font-family:menuText;
+	src: url(resources/supremeFont2.ttf);
+}
+p{
+	font-family:menuText;
+	color:white;
+	text-align:center;
+}
+
+a{
+	color:inherit;
+	text-decoration: underline;
+}
+
+body{
+	background-color:#2E2E2E;
+}
+
+.formRow{
+	margin:auto;
+	margin-top:5px;
+	width:fit-content;
+	display:block;
+}
+
+
+
+.center{
+	text-align: -webkit-center;
+	margin:auto;
+	width:fit-content;
+}
+
+.logoBox{
+	position:relative;
+	top:-35px;
+}
+
+.supremeText{
+	font-family:supreme;
+	color:white;
+	background-color:red;
+	padding-bottom:2px;
+	padding-left:5px;
+	padding-right:7px;
+	margin-bottom:0px;
+}
+
+.roundedBox{
+	background-color:#8B8B8B;
+	border:5px #5D5D5D solid;
+	border-radius:30px;
+	height:fit-content;
+	margin:20px;
+	margin-top:40px;
+}
+
+#formWrap input{
+	display:block;
+}
+
+#wrap{
+	padding-left:20px;
+	padding-right:20px;
+}
+
+#loginBoxes{
+	position:relative;
+	top:-35px;
+	margin:20px;
+}
+
+#passwordBox{
+	margin-top:10px;
+}
+
+.Btn{
+	border: none;
+	font-family:menuText;
+	font-size:30px;
+	color:white;
+	position:relative;
+	top: -18px;
+	background-color:red;
+	border-radius:5px;	
+}
+
+.Btn:hover{
+	box-shadow: 2px 4px 10px;
+}
+
+.Btn:active{
+	transform: translateY(2px);
+}
+
+button{
+	display:block;
+	margin:auto;
+}
+
+#signUpBtn{
+	margin-top:20px;
+}
+
+#forgotPassword{
+	position:relative;
+	top:-45px;
+	padding:10px;
+}
+
+#formWrap{
+	position:relative;
+	top:-30px;
+	    margin-right: 20px;
+    margin-left: 20px;
+}
+
+.editDetails{
+	margin:20px;
+	margin-top: -30px;
+    display: inline-block;
+}
+
+#editDetailsBtn{
+	margin-top:40px;
+	margin-bottom:-20px;
+}
+
+
+h4{
+	display:inline;
+}
+
+h3{
+	display:inline;
+}
+#displayWrap{	
+	position: relative;
+    top: -24px;
+}
+
+.icon{
+	background: white;
+    border-radius: 100px;
+}
+
+.icon:hover{
+	box-shadow: 2px 4px 10px;
+}
+
+.icon:active{
+	transform: translateY(4px);
+}
+
+.container{
+	display:inline-flex;
+}
+
+.detail{
+	text-align:center;
+	width:33%;
+	display:inline;
+}
+
+#formBox{
+	margin: 20px;
+    margin-top: -20px;
+}

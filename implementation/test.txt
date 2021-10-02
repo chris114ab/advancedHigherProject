@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><response><br />
+<b>Notice</b>:  Trying to get property 'user' of non-object in <b>C:\Users\chris\Desktop\XAMPP\htdocs\supremeBot\updateUserDetails.php</b> on line <b>22</b><br />
+</response>
+
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?><response>array(11) {
+  ["fullName"]=>
+  string(5) "12345"
+  ["telephone"]=>
+  string(11) "12345678901"
+  ["address1"]=>
+  string(2) "11"
+  ["address2"]=>
+  string(1) "1"
+  ["address3"]=>
+  string(1) "1"
+  ["city"]=>
+  string(1) "1"
+  ["postcode"]=>
+  string(7) "1234567"
+  ["cardNumber"]=>
+  string(16) "1234567890123456"
+  ["expiryDate"]=>
+  string(2) "12"
+  ["expiryYear"]=>
+  string(2) "12"
+  ["scn"]=>
+  string(3) "123"
+}
+</response>

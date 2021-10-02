@@ -1,0 +1,21 @@
+{ 
+	"name":"supremeExtenison",
+	"version": "1.0",
+	"description": "A supreme extenison to automatically buy supreme",
+	"permissions": [
+		"http://localhost/*",
+		"storage"
+		],
+	"browser_action":{
+		"default_title":"SupremeBot",
+		"default_icon":"HTML/icon.png",
+		"default_popup":"HTML/loginPage.html"
+	},
+	"manifest_version": 2
+}
+
+
+
+
+
+
